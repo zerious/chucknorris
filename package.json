@@ -1,0 +1,21 @@
+{
+  "name": "chucknorris",
+  "version": "0.0.0",
+  "description": "Chuck Norris does not need a description.",
+  "main": "chucknorris.js",
+  "scripts": {
+    "test": "echo \"Do not test Chuck Norris.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lighterio/chucknorris.git"
+  },
+  "keywords": [
+    "Chuck",
+    "Norris"
+  ],
+  "author": "Chuck Norris <me@chucknorris.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/lighterio/chucknorris/issues",
+  "homepage": "https://github.com/lighterio/chucknorris"
+}
