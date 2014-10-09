@@ -2,20 +2,22 @@
   "name": "chucknorris",
   "version": "0.0.0",
   "description": "Chuck Norris does not need a description.",
-  "main": "chucknorris.js",
-  "scripts": {
-    "test": "echo \"Do not test Chuck Norris.\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lighterio/chucknorris.git"
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "keywords": [
     "Chuck",
     "Norris"
   ],
-  "author": "Chuck Norris <me@chucknorris.com>",
-  "license": "MIT",
+  "main": "chucknorris.js",
+  "engines": {
+    "node": ">=0.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Do not test Chuck Norris.\" && exit 1"
+  },
+  "repository": "https://github.com/lighterio/chucknorris.git",
   "bugs": "https://github.com/lighterio/chucknorris/issues",
-  "homepage": "https://github.com/lighterio/chucknorris"
+  "homepage": "https://github.com/lighterio/chucknorris",
+  "author": "Chuck Norris <me@chucknorris.com>",
+  "license": "MIT"
 }
